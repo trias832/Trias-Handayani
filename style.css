@@ -1,0 +1,14 @@
+.jumbotron{
+    margin-bottom: 0rem;
+}
+hr.rounded {
+    border-top: 4px solid black;
+    border-radius: 5px;
+    width: 25%;
+  }
+.portfolio{
+    background-color: #e9ecef;
+}
+.img-porto{
+    height: 300px;
+}
